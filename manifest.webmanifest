@@ -1,0 +1,17 @@
+{
+  "name": "道場タイマー · Dojo Timer",
+  "short_name": "Dojo Timer",
+  "description": "Cronómetro de intervalos para artes marciales y entrenamiento, con voz motivadora.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#120c0b",
+  "theme_color": "#120c0b",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
